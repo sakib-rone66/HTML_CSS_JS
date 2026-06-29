@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+/*Position Absolute*/
+#Car1{
+    position: absolute;
+    right: 10%;
+    width: 120px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+}
+#Car2{
+    position: absolute;
+    left: 40%;
+    width: 120px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+}
+#Car3{
+    position: absolute;
+    left: 60%;
+    width: 120px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+}
+
+/*Position Relative*/
+#Box{
+    position: relative;
+    width: 400px;
+    height:400px;
+    background-color: rgb(148, 148, 148);
+    margin: 10px;
+}
+#box{    
+    position:absolute;
+    left: 50%;
+    width: 100px;
+    height:100px;
+    background-color: rgb(255, 0, 0);
+}
