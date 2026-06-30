@@ -98,8 +98,8 @@ Frontend-Learning/
 | Topic | Status |
 |--------|--------|
 | HTML | 🟡 Complete |
-| CSS | ⏳ Complete |
-| JavaScript | ⏳ Upcoming |
+| CSS | 🟡 Complete |
+| JavaScript | ⏳ Ongoing |
 | Projects | ⏳ Upcoming |
 
 ---
