@@ -1,5 +1,5 @@
 /*              ****Express.js Day=>2****
-Contains: Status Code; MiddleWare*/
+         Contains: Status Code; MiddleWare*/
 
 //status code:
 console.log("Status code:");
